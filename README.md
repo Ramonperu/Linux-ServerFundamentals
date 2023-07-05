@@ -8,7 +8,7 @@ Bienvenidos a la guía para principiantes de Linux Servers realizada por Ramon P
 
 Los servidores son computadoras equipadas con software que les permite brindar servicios a los clientes a través de una red. Algunos **proporcionan recursos externos, como archivos, mensajes de correo electrónico o páginas web**, a los clientes cuando estos los solicitan. Otros servicios se encargan de tareas de mantenimiento, como la gestión de registros, la administración de memoria, el escaneo de discos, entre otras. Cada uno de estos servicios requiere su propio software de servidor. 
 
-<img src="/img/1ºimagen.jpg" style="zoom:150%;" />
+<img src="/img/1ºimagen.JPG" style="zoom:150%;" />
 
 
 
@@ -42,7 +42,7 @@ Los clientes son programas o aplicaciones diseñados para establecer comunicaci�
 
 
 
-<img src="/img/2ºimagen.jpg" style="zoom:150%;" />
+<img src="/img/2ºimagen.JPG" style="zoom:150%;" />
 
 ------
 
